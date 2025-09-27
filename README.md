@@ -3,9 +3,6 @@
 A modern and innovative mobile + web application that helps users **find**, **book**, and **manage** parking slots in real-time — while giving parking owners the tools to manage their lots, monitor usage, and generate reports.
 
 Built with **React Native (Expo)** for users and an optional **Web Admin Panel** for owners using modern React + Tailwind UI principles.
-
-
-Video Link : https://drive.google.com/file/d/13knQ-3RJOqfW9_0jbi3ztEpozMcDYML0/view?usp=sharing
 ---
 
 ## ✨ Features
